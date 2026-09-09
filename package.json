@@ -1,0 +1,23 @@
+{
+  "name": "oxonom-v2",
+  "version": "2.0.0",
+  "description": "AdisyonEx / Oxonom V2 Mobil Patron Terminali - Velora UI & Canlı PostgreSQL Entegrasyonu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "adisyonex",
+    "oxonom",
+    "pos",
+    "restaurant-management",
+    "velora-ui",
+    "pwa"
+  ],
+  "author": "oxobee",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.13.0"
+  }
+}
